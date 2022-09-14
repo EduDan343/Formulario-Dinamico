@@ -1,0 +1,25 @@
+.OpcionForm {
+    padding: 10px;
+    display: flex;
+    justify-content: flex-start;
+    width: 100vw;
+}
+
+label {
+    padding-right: 20px;
+}
+
+.error {
+    position: absolute;
+    left: 45%;
+    padding-left: 15px;
+    z-index: 5;
+}
+
+.lista {
+    display: flex;
+}
+
+.lista-p {
+    margin-right: 20px;
+}
